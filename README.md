@@ -1,2 +1,2 @@
-![](sql-scripts/recipe-book-schema.png)
+![db](recipe-book-schema.png)
 
